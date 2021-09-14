@@ -1,4 +1,7 @@
-# Naruto Quotes Client
+
+# Introdução ao React Hooks
+Naruto quotes generator client for DIO lesson.
+
 Naruto quotes generator client for DIO lesson.
 
 ![screenshot](screenshot.png?raw=true "screenshot")
